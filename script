@@ -1,4 +1,3 @@
 
-wait(20)
 local player = game.Players.LocalPlayer
 player:Kick("You have been banned!")
